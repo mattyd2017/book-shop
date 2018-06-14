@@ -1,0 +1,91 @@
+C:\ASP\book shop\book shop\bin\book shop.dll
+C:\ASP\book shop\book shop\bin\book shop.pdb
+C:\ASP\book shop\book shop\bin\Antlr3.Runtime.dll
+C:\ASP\book shop\book shop\bin\AspNet.ScriptManager.jQuery.dll
+C:\ASP\book shop\book shop\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\ASP\book shop\book shop\bin\DotNetOpenAuth.AspNet.dll
+C:\ASP\book shop\book shop\bin\DotNetOpenAuth.Core.dll
+C:\ASP\book shop\book shop\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\ASP\book shop\book shop\bin\DotNetOpenAuth.OAuth.dll
+C:\ASP\book shop\book shop\bin\DotNetOpenAuth.OpenId.dll
+C:\ASP\book shop\book shop\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\ASP\book shop\book shop\bin\EntityFramework.dll
+C:\ASP\book shop\book shop\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\ASP\book shop\book shop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\ASP\book shop\book shop\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\ASP\book shop\book shop\bin\Microsoft.ScriptManager.WebForms.dll
+C:\ASP\book shop\book shop\bin\Microsoft.Web.Infrastructure.dll
+C:\ASP\book shop\book shop\bin\System.Web.Optimization.dll
+C:\ASP\book shop\book shop\bin\System.Web.Providers.dll
+C:\ASP\book shop\book shop\bin\WebGrease.dll
+C:\ASP\book shop\book shop\bin\EntityFramework.xml
+C:\ASP\book shop\book shop\bin\DotNetOpenAuth.Core.xml
+C:\ASP\book shop\book shop\bin\DotNetOpenAuth.OAuth.xml
+C:\ASP\book shop\book shop\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\ASP\book shop\book shop\bin\DotNetOpenAuth.OpenId.xml
+C:\ASP\book shop\book shop\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\ASP\book shop\book shop\bin\DotNetOpenAuth.AspNet.xml
+C:\ASP\book shop\book shop\obj\Debug\book shop.csprojResolveAssemblyReference.cache
+C:\ASP\book shop\book shop\obj\Debug\book shop.dll
+C:\ASP\book shop\book shop\obj\Debug\book shop.pdb
+H:\book shop\book shop\bin\book shop.dll
+H:\book shop\book shop\bin\book shop.pdb
+H:\book shop\book shop\bin\Antlr3.Runtime.dll
+H:\book shop\book shop\bin\AspNet.ScriptManager.jQuery.dll
+H:\book shop\book shop\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+H:\book shop\book shop\bin\DotNetOpenAuth.AspNet.dll
+H:\book shop\book shop\bin\DotNetOpenAuth.Core.dll
+H:\book shop\book shop\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\book shop\book shop\bin\DotNetOpenAuth.OAuth.dll
+H:\book shop\book shop\bin\DotNetOpenAuth.OpenId.dll
+H:\book shop\book shop\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\book shop\book shop\bin\EntityFramework.dll
+H:\book shop\book shop\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+H:\book shop\book shop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\book shop\book shop\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\book shop\book shop\bin\Microsoft.ScriptManager.WebForms.dll
+H:\book shop\book shop\bin\Microsoft.Web.Infrastructure.dll
+H:\book shop\book shop\bin\System.Web.Optimization.dll
+H:\book shop\book shop\bin\System.Web.Providers.dll
+H:\book shop\book shop\bin\WebGrease.dll
+H:\book shop\book shop\bin\EntityFramework.xml
+H:\book shop\book shop\bin\DotNetOpenAuth.Core.xml
+H:\book shop\book shop\bin\DotNetOpenAuth.OAuth.xml
+H:\book shop\book shop\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\book shop\book shop\bin\DotNetOpenAuth.OpenId.xml
+H:\book shop\book shop\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\book shop\book shop\bin\DotNetOpenAuth.AspNet.xml
+H:\book shop\book shop\obj\Debug\book shop.csprojResolveAssemblyReference.cache
+H:\book shop\book shop\obj\Debug\book shop.dll
+H:\book shop\book shop\obj\Debug\book shop.pdb
+F:\New folder\Group project implementation\book shop\book shop\bin\book shop.dll.config
+F:\New folder\Group project implementation\book shop\book shop\bin\book shop.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\book shop.pdb
+F:\New folder\Group project implementation\book shop\book shop\bin\Antlr3.Runtime.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\AspNet.ScriptManager.jQuery.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\DotNetOpenAuth.AspNet.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\DotNetOpenAuth.Core.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\DotNetOpenAuth.OAuth.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\DotNetOpenAuth.OpenId.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\EntityFramework.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\Microsoft.ScriptManager.WebForms.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\System.Web.Optimization.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\System.Web.Providers.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\WebGrease.dll
+F:\New folder\Group project implementation\book shop\book shop\bin\EntityFramework.xml
+F:\New folder\Group project implementation\book shop\book shop\bin\DotNetOpenAuth.Core.xml
+F:\New folder\Group project implementation\book shop\book shop\bin\DotNetOpenAuth.OAuth.xml
+F:\New folder\Group project implementation\book shop\book shop\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\New folder\Group project implementation\book shop\book shop\bin\DotNetOpenAuth.OpenId.xml
+F:\New folder\Group project implementation\book shop\book shop\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\New folder\Group project implementation\book shop\book shop\bin\DotNetOpenAuth.AspNet.xml
+F:\New folder\Group project implementation\book shop\book shop\obj\Debug\book shop.csprojResolveAssemblyReference.cache
+F:\New folder\Group project implementation\book shop\book shop\obj\Debug\book shop.dll
+F:\New folder\Group project implementation\book shop\book shop\obj\Debug\book shop.pdb

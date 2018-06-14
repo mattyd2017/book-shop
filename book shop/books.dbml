@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="store" Class="booksDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\store.mdf;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="storeConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.[order]" Member="orders">
+    <Type Name="order">
+      <Column Name="orderid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="username" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="orderdate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="orderaddress1" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="orderaddress2" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="ordertown" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="orderpostcode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="countyid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="orderpaid" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="ordersent" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Association Name="order_bookorder" Member="bookorders" ThisKey="orderid" OtherKey="orderid" Type="bookorder" />
+      <Association Name="county_order" Member="county" ThisKey="countyid" OtherKey="countyid" Type="county" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.bookorder" Member="bookorders">
+    <Type Name="bookorder">
+      <Column Name="orderbookid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="orderid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="bookid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="orderbookquantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ordervalue" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Association Name="order_bookorder" Member="order" ThisKey="orderid" OtherKey="orderid" Type="order" IsForeignKey="true" />
+      <Association Name="Book_bookorder" Member="Book" ThisKey="bookid" OtherKey="bookid" Type="Book" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Books" Member="Books">
+    <Type Name="Book">
+      <Column Name="bookid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="bookTitle" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="bookPrice" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="bookImageURL" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="Book_bookorder" Member="bookorders" ThisKey="bookid" OtherKey="bookid" Type="bookorder" />
+    </Type>
+  </Table>
+  <Table Name="dbo.county" Member="counties">
+    <Type Name="county">
+      <Column Name="countyid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="county" Member="county1" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Association Name="county_order" Member="orders" ThisKey="countyid" OtherKey="countyid" Type="order" />
+    </Type>
+  </Table>
+</Database>
